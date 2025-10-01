@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**TestingGuyz/TestingGuyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+# 💫 About Me:
 <br>🚧 Sandbox account of EgoisticCoderX | Testing, prototypes & experiments live here. For polished projects → see my main profile.<br>Making and Testing Models Like Never Before
 
 
@@ -33,10 +25,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=TestingGuyz&icon=3&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
