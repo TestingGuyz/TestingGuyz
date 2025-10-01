@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🚧 Sandbox account of EgoisticCoderX | Testing, prototypes & experiments live here. For polished projects → see my main profile.<br>Making and Testing Models Like Never Before
+<br>🚧 Sandbox account of EgoisticCoderX | Testing, prototypes & experiments live here. For polished projects → see my main profile.<br><br>Making and Testing Models Like Never Before
 
 
 ## 🌐 Socials:
