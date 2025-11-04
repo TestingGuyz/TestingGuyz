@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🚧 Sandbox account of EgoisticCoderX | Testing, prototypes & experiments live here. For polished projects → see my main profile.<br><br> 💻 Making and Testing Models Like Never Before
+<br>Hello there, I am Abhinav Gupta also known as EgoisticCoderX and also TestingGuyz, i am a solo dev aimimg to be a an AI/ML scientist, and i am currently 13 years old. | Testing, prototypes & experiments, final products, AI projects, etc... live here. <br><br> 💻 Coding Like Never Before
 
 
 ## 🌐 Socials:
