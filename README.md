@@ -1,5 +1,12 @@
 # 💫 About Me:
-<br>Hello there, I am Abhinav Gupta also known as EgoisticCoderX and also TestingGuyz, i am a solo dev aimimg to be a an AI/ML scientist, and i am currently 13 years old. | Testing, prototypes & experiments, final products, AI projects, etc... live here. <br><br> 💻 Coding Like Never Before
+<br>I'm a developer with a deep focus on AI/ML systems and frontend engineering.
+Currently building Dokai — a medical AI platform powered by MedGemma 4B,
+combining multimodal perception, clinical reasoning, and voice input
+to make intelligent healthcare assistance genuinely accessible.
+I generally prefer to make systems that are technically and practically useful to our world.
+My motto is: "To code like never before" — and thus I keep upgrading my skills in the field of AI/ML.
+I am a solo dev aiming to be an AI/ML scientist, currently 13 years old.
+Testing, prototypes, experiments, and final AI projects live here. <br><br> 💻 Coding Like Never Before
 
 
 ## 🌐 Socials:
