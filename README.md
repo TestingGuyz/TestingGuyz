@@ -1,12 +1,12 @@
 # 💫 About Me:
-<br>I'm a developer with a deep focus on AI/ML systems and frontend engineering.
-Currently building Dokai — a medical AI platform powered by MedGemma 4B,
-combining multimodal perception, clinical reasoning, and voice input
-to make intelligent healthcare assistance genuinely accessible.
-I generally prefer to make systems that are technically and practically useful to our world.
-My motto is: "To code like never before" — and thus I keep upgrading my skills in the field of AI/ML.
-I am a solo dev aiming to be an AI/ML scientist, currently 13 years old.
-Testing, prototypes, experiments, and final AI projects live here. <br><br> 💻 Coding Like Never Before
+<br>At 14, I'm already deep in the work — building Dokai, a medical AI platform fine-tuned on MedGemma 4B with multimodal perception, clinical reasoning, and voice input, designed to make intelligent healthcare assistance genuinely accessible.
+ 
+My core focus is AI/ML systems and frontend engineering. I care about building things that are technically rigorous and solve problems that actually matter — not just demos that look good in a portfolio.
+ 
+Targeting AI/ML research and engineering long-term. The gap between where I am and where I want to be is just fuel.
+ 
+Open to collaborations, research discussions, and feedback on Dokai.
+ <br><br> 💻 Coding Like Never Before
 
 
 ## 🌐 Socials:
