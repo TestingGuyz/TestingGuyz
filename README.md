@@ -1,4 +1,4 @@
-# Abhinav Gupta — EgoisticCoderX or TestingGuyz
+# Abhinav Gupta — EgoisticCoder or TestingGuyz
 
 Age 14. Living at Kolkata. Building AI systems and robotics projects that actually do something.
 
