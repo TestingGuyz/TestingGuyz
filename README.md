@@ -96,7 +96,7 @@ Built in ~1.5 hours for X Celsior '26. AI chat companion, TTS voice, XP/leveling
 ## 📫 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/egoistic-coderx)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/EgoisticCoderX)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/EgoisticCoder)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:egoisticcoderx@gmail.com)
 
 Portfolio — [abhinav-gupta.vercel.app](https://abhinav-gupta.vercel.app). (Outdated)
