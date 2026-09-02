@@ -17,7 +17,7 @@
   StudyMate AI accepted into Sarvam AI's startup program; completed onboarding and integrated Sarvam's STT/TTS Streaming, Text Translate, and Document Digitization APIs into production.
 - **Featured twice in *The Telegraph* — "The Young Metro"**
   Profiled for work in student-built AI and robotics.
-- **Won 10+ events across AI/ML, Web Development and Robotics
+- **Won 10+ events across AI/ML, Web Development and Robotics**
 
 ---
 
