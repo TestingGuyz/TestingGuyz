@@ -1,4 +1,4 @@
-# Abhinav Gupta — EgoisticCoderX
+# Abhinav Gupta — EgoisticCoder
 
 **AI/ML Research Engineer (in training) · Robotics & Embedded Systems · Full-Stack AI Products**
 
